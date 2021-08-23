@@ -1,3 +1,4 @@
+# THIS REPO IS OUT OF DATE AND KEPT ONLY FOR HISTORICAL PURPOSES. FOR AN UP-TO-DATE VERSION OF JAPL, CLICK  [HERE](https://github.com/japl-lang/japl)
 # japl
 JAPL is an interpreted, dynamically-typed, garbage-collected and minimalistic programming language with C- and Java-like syntax.
 
